@@ -72,6 +72,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="P1074_reverseList.cpp" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>

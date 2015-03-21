@@ -2,21 +2,13 @@
 //
 
 #include "stdafx.h"
+#include "P1074_reverseList.cpp"
 
-/*
-echo # PAT_DayByDay >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/titer1/PAT_DayByDay.git
-git push -u origin master
-
-*/
 
 //fail
 int main(int argc, _TCHAR* argv[])
 {
-	//hj
+	p1074_main();
 	return 0;
 }
 
